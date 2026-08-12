@@ -1,0 +1,16 @@
+# env-type-safe
+> Type-safe environment variable loader with schema validation, type coercion, and detailed error reporting
+
+Type-safe environment variable loader with precise TypeScript typing, validation, and detailed multi-error reporting. Validates all variables upfront, coerces strings to proper types (number, boolean, URL, port), and returns an immutable configuration object. ```bash npm install env-type-safe
+
+## API
+- `EnvType`
+- `EnvFieldConfig`
+- `EnvSchema`
+- `ValidationError`
+- `loadEnv`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
