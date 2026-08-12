@@ -1,4 +1,5 @@
 # env-type-safe
+![CI](https://github.com/FerrowAI/env-type-safe/actions/workflows/ci.yml/badge.svg)
 
 Type-safe environment variable loader with precise TypeScript typing, validation, and detailed multi-error reporting. Validates all variables upfront, coerces strings to proper types (number, boolean, URL, port), and returns an immutable configuration object.
 
