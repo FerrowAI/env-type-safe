@@ -6,7 +6,7 @@ Type-safe environment variable loader with precise TypeScript typing, validation
 ## Installation
 
 ```bash
-npm install env-type-safe
+npm install @ferrow/env-type-safe
 ```
 
 ## Quick Start

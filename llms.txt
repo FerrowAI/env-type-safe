@@ -1,4 +1,6 @@
 # env-type-safe
+
+Install: npm install @ferrow/env-type-safe
 > Type-safe environment variable loader with schema validation, type coercion, and detailed error reporting
 
 Type-safe environment variable loader with precise TypeScript typing, validation, and detailed multi-error reporting. Validates all variables upfront, coerces strings to proper types (number, boolean, URL, port), and returns an immutable configuration object.
